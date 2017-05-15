@@ -545,8 +545,7 @@ function Component(props, context, opts) {
 		newComponentHook.call(this, props, context);
 	}
 }
-extend(Component.prototype, PreactComponent.prototype);
-extend(Component.prototype, {
+extend(Component.prototype = PreactComponent.prototype, {
 	constructor: Component,
 
 	isReactComponent: {},
