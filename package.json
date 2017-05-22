@@ -1,5 +1,5 @@
 {
-  "name": "preact-compat",
+  "name": "kb-preact-compat",
   "amdName": "preactCompat",
   "version": "3.16.0",
   "description": "A React compatibility layer for Preact",
@@ -78,7 +78,7 @@
     "webpack": "^1.13.2"
   },
   "peerDependencies": {
-    "preact": ">=5"
+    "kb-preact": ">=5"
   },
   "dependencies": {
     "immutability-helper": "^2.1.2",
