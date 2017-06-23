@@ -27,12 +27,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/developit/preact-compat.git"
+    "url": "https://github.com/koubei-fe/preact-compat.git"
   },
   "author": "Jason Miller <jason@developit.ca>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/developit/preact-compat/issues"
+    "url": "https://github.com/koubei-fe/preact-compat/issues"
   },
   "homepage": "https://github.com/developit/preact-compat",
   "devDependencies": {
